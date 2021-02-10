@@ -1,0 +1,6 @@
+<$HOME/app/mk/inc/config
+PROGNAME = 9dc
+INCS = $INC9
+DEFS = -D_DEFAULT_SOURCE
+CFILES = main.c
+AFILES = $OBJ9
